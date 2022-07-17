@@ -1,3 +1,3 @@
 @echo on
-pip install -r dz2.txt
+pip install -r requirements.txt
 jupyter-nbconvert.exe --execute .\Untitled.ipynb --to html

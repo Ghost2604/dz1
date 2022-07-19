@@ -38,4 +38,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCK_USERNAME }}/fishaffair:latest
+          tags: ${{ secrets.DOCK_USERNAME }}/domash:latest
